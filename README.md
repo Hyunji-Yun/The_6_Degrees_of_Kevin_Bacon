@@ -1,2 +1,2 @@
-# 3311Project
-the 6 Degrees of Kevin bacon
+# EECS 3311 Project
+The 6 Degrees of Kevin Bacon
